@@ -4,7 +4,7 @@ import numpy as np
 # ============================================================
 #  EINSTELLUNGEN  (nur hier musst du drehen)
 # ============================================================
-BILD_PFAD    = "p3.jpg"   # <-- Pfad zu deinem Foto
+BILD_PFAD    = "glanz_output/reflex_0.png"   # <-- Pfad zu deinem Foto
 V_MIN        = 249   # Helligkeit (0-255): ALLES darüber gilt als "hell"
 S_MAX        = 30    # Sättigung  (0-255): ALLES darunter gilt als "farblos/weißlich"
 MIN_FLAECHE  = 5000   # Flecken kleiner als das (in Pixeln) ignorieren -> Rauschen
